@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+body{
+    background-color: #afe8fa; 
+    font-family: Optima, sans-serif;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+    text-align: center;
+}
+.imgP{
+    width: 350px;
+    height: 300px;
+
+}
+.info1{
+    grid: 500px;
+    text-align: center;
+}
+.info2{
+    grid: 500px;
+    text-align: center;
+}
+.link1{
+    grid: 5rem;
+    text-align: center;
+    padding-top: 25px;
+}
+Label{
+font-family: Helvetica, sans-serif;
+}
+.inputs{
+	grid: 20px;
+	padding:5px;
+	padding-left:25px;
+	background-color: #6aa7f0;
+	margin: 10px;
+	margin-left: 20rem;
+	margin-right: 20rem;
+	border: solid;
+	border-width: 1px;
+	border-radius: 5px;
+}
+.botton{
+	margin: auto;
+	width: 50%;
+}
